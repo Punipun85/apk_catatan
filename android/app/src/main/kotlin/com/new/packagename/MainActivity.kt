@@ -1,4 +1,4 @@
-package com.samuel.catatan.catatan_harian
+package com.new.packagename
 
 import io.flutter.embedding.android.FlutterActivity
 
